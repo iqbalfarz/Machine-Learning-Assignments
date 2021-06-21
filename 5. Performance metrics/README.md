@@ -1,9 +1,11 @@
 This folder contains custom performance metrics coding in core python.
+
 **Classification metrics**:
   * accuracy_score
   * confusion matrix
   * f1-score
   * AUC
+
 **Regression metrics**:
   * MSE: Mean Squared Error
   * MAPE: Mean Absolute Percentage Error
