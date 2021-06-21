@@ -1,5 +1,7 @@
 This folder contains implementing Naive Bayes on Text Data:
 
+**NOTE: download complete project from here**: [Click Here!](https://drive.google.com/drive/folders/1VLmvkW1usT5Mz6DRaygaSHlNmEvGEvZi?usp=sharing)
+
 **1. Apply Multinomial Naive Bayes on these feature sets:**
 
 * **SET 1**: categorical, numerical features + preprocessed_essays(BOW)
