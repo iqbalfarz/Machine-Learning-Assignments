@@ -1,5 +1,7 @@
 # Image Document Classification using Transfer Learning in CNN
 
+**NOTE: Use Google Colab to run this project,[Click Here](https://colab.research.google.com/drive/13A4TuM8gO-AodUfL0AUkq5fvXii_xebn?usp=sharing) to open jupyter notebook.**
+
 ## Problem Statement
 Classifying the documents among 16 given classes.
 
