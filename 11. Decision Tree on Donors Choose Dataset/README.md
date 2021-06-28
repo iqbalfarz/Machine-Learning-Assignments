@@ -36,8 +36,22 @@ __SET 1:__
 - Reciever Operating Characteristic Curve of SET 1
 ![image](https://user-images.githubusercontent.com/32350208/123644063-a7d30e00-d842-11eb-9478-f1489e57e1d7.png)
 
-- confusion matrix of SET 1
+- confusion matrix of TEST data of SET 1
 ![image](https://user-images.githubusercontent.com/32350208/123644129-b7525700-d842-11eb-86c7-a48010d94ec4.png)
+
+__SET 2:__
+- Heatmap of AUC of Training data of SET 2
+![image](https://user-images.githubusercontent.com/32350208/123681622-a962fd00-d867-11eb-845b-23309f4bae5b.png)
+
+- Heatmap of AUC of Test data of SET 2
+![image](https://user-images.githubusercontent.com/32350208/123681692-bc75cd00-d867-11eb-942d-4520775a81a1.png)
+
+- Reciever Operative Characteristics(ROC-AUC) Curve of SET 2
+![image](https://user-images.githubusercontent.com/32350208/123681807-e0391300-d867-11eb-9754-073a5c4d92d2.png)
+
+- Confusion Matrix of TEST data of SET 2
+![image](https://user-images.githubusercontent.com/32350208/123681878-f6df6a00-d867-11eb-803d-0460bffe65fb.png)
+SET 2
 
 
 ## Credit
